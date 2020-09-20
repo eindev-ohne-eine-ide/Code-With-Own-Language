@@ -1,0 +1,4 @@
+include var
+
+int a 1000
+++ Set a to 1000 ++

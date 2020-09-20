@@ -1,0 +1,4 @@
+include var
+
+string a Hello World
+++ Set a to "Hello World" ++
